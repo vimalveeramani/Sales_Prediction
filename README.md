@@ -52,6 +52,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 We would like to acknowledge the scikit-learn, pandas, and numpy libraries for their contributions to this implementation.
 
-For any further questions or inquiries, please contact [your-email@example.com](vimalveeramani45@gmail.com).
+For any further questions or inquiries, please contact [vimalveeramani45@gmail.com](vimalveeramani45@gmail.com).
 
 Happy sales prediction using the Random Forest Regressor!
